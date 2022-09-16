@@ -7,5 +7,6 @@
 
 
 ![zone1_1_58](https://user-images.githubusercontent.com/113699308/190717278-7e2a7530-10a6-414f-9f38-24193cf775dc.jpg)
-![DutchTHzImage](https://user-images.githubusercontent.com/113699308/190717740-a6b49363-8dff-47a0-9364-09d74d0ef831.png)
 
+
+![Screenshot 2022-09-17 at 00 34 47](https://user-images.githubusercontent.com/113699308/190826583-7e9f572a-f8ee-43de-bc37-25c30af9d470.png)
