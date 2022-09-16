@@ -1,5 +1,4 @@
 - [Overview](overview.md)
-- [Architecture](architecture.md)
+- [History](architecture.md)
 - [FAQ](https://github.com/maximnl/mais/issues)
-- [Youtube](https://www.youtube.com/channel/UCVwnyyikS5K__OJXnhM1APg)
-- [![Twitter](assets/img/twitter.svg)@MaisFramework](http://twitter.com/MaisFramework)
+
