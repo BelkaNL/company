@@ -2,5 +2,5 @@
 
 
 # DUTCH TERAHERTZ INSPECTION SERVICES B.V.
- ## Space Quality Inspection
+ ## The HAGUE, THE NETHERLANDS
 
