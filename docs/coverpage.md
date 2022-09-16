@@ -1,14 +1,12 @@
-![image](https://user-images.githubusercontent.com/33482502/186895321-b55f3b2c-1d64-4017-b128-ce0edde15d8e.png)
+![image](https://user-images.githubusercontent.com/33482502/190661747-e92e0f0c-6660-41e8-a257-6f5be0460d43.png)
 
-# MAIS
 
-> An innovative (Azure) SQL framework for periodic reporting in an agile way.
+# Alena Belitskaya
 
-- Process data you need for periodic reporting into a light weight time series format. 
-- Make data maintanance agile, and business friendly. 
-- Integrate any user raw files or transaction tables.  
-- Build periodic reports richer , more analytical and faster.
-- Apply out of the box forecasting algorithms, time intelligence procedures and other community (time series) data
+> A QUOTE TO MAKE.
 
-[GitHub](https://github.com/maximnl/mais/)
-[Getting Started](overview.md)
+- LIST 1 
+- LIST 2 
+
+
+[LinkedIn]([https://github.com/maximnl/mais/](https://www.linkedin.com/in/alena-belitskaya-97488a109/)
