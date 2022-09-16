@@ -1,20 +1,6 @@
-Welcome . 
-# Abstract
  
-Your main results:
-- r1, 
-- r2, 
-
-?>What you do .  
-
-
-A) easy fast direct data access to reporting data by well defined names or stored filters
-B) ETL self service for the business to manage this data. 
-
-# History
-
-2004 -  
-2008 -   
-2014 -  
+# Welcome
  
+> Dutch Terahertz Inspection Services B.V. is a fist commercial company in the Netherlands which offers tailored Terahertz non-destructive inspection of the internal defects, such as porosity, delamination, etc., particular, in non-conducting composite materials, such as glass fiber, epoxy resin, aramid fibre, honeycomb, Rohacell, and poly-urethane foam, that are often used in aerospace, marine, medical and construction industry. This technology will, for instance, enable FMCW radar, time-domain reflectometry, spectroscopic and phase sensitive three-dimensional imaging at THz frequencies. 
+
 
