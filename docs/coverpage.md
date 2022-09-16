@@ -9,4 +9,4 @@
 - LIST 2 
 
 
-[LinkedIn]([https://github.com/maximnl/mais/](https://www.linkedin.com/in/alena-belitskaya-97488a109/)
+[LinkedIn](https://www.linkedin.com/in/alena-belitskaya-97488a109/)
