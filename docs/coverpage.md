@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/33482502/190661747-e92e0f0c-6660-41e8-a257-6f5be0460d43.png)
+![image]
 
 
 # Alena Belitskaya
