@@ -1,7 +1,7 @@
 ![image]
 
 
-# Alena Belitskaya
+# 
 
 > A QUOTE TO MAKE.
 
