@@ -1,3 +1,3 @@
 ![Logo](https://user-images.githubusercontent.com/113699308/190699181-fbde097a-2f69-45a3-98fb-54046aa1d1ab.png)
 
- # <font color="blue"> DUTCH TERAHERTZ INSPECTION SERVICES B.V.</font>
+ # <font color="white"> DUTCH TERAHERTZ INSPECTION SERVICES B.V.</font>
