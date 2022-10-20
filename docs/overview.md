@@ -13,7 +13,7 @@
 
 # History
 
-> **Dutch Terahertz Inspection Services B.V.** is start-up of the European Space Agency Business Incubation Center in Noordwijk, The Netherlands.
+> **Dutch Terahertz Inspection Services B.V.** was established by two scientists in 2015 and is start-up of the European Space Agency Business Incubation Center (ESA BIC) in Noordwijk, The Netherlands.
 
 >**Terahertz instrumentation** was originally designed to deal with cosmic radiation of a very high frequency, from 300 GHz to 3 THz, and was initially developed for space projects, such as the Herschel Space Observatory launched by ESA in 2009, and international ground-based projects, such as the Atacama Large Millimetre Array (ALMA) to study the birth and death of stars, to research the physics of the cold universe and directly image the formation of planets.  
 
