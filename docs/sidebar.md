@@ -1,5 +1,5 @@
 - [Overview](overview.md)
 - [Space Research](research.md)
-- Market Segments
+- Market
 - [Contact](contact.md)
 
