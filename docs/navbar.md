@@ -1,6 +1,0 @@
-- [Home](/) &nbsp; &nbsp;
-- Examples <span class="arrow">&#x25BE;</span>
-  - [File import examples]()
-  - [Dashboards Examples]()
-  - [History]()
-  - [Team]()
